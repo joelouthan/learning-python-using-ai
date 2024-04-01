@@ -1,0 +1,1 @@
+## Learning Python with my Kids using GitHub Copilot
